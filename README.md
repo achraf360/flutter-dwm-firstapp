@@ -1,16 +1,31 @@
-# dwm_app
 
-A new Flutter project.
 
-## Getting Started
+<h1>Flutter First App</h1>
+<table>
+    <tr>
+        <td>
+            <img src="/screenshots/screen1.png">
+        </td>
+        <td>
+            <img src="screenshots/screen2.png">
+        </td>
+        <td>
+            <img src="screenshots/screen3.png">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/screenshots/screen4.png">
+        </td>
+        <td>
+            <img src="screenshots/screen6.png">
+        </td>
+        <td>
+            <img src="screenshots/screen5.png">
+        </td>
+    </tr>
 
-This project is a starting point for a Flutter application.
+</table>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
